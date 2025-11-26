@@ -1,0 +1,8 @@
+google-adk==1.1.1
+pandas
+pandasql
+openpyxl  # Required for reading .xls/.xlsx files
+xlrd  # Required for reading .xls files
+litellm  # Universal LLM library for Grok support
+
+
